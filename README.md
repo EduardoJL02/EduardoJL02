@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/122525607/572111899-93c2ecdb-bf33-49e8-b505-571a304370b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ5ODU2OTUsIm5iZiI6MTc3NDk4NTM5NSwicGF0aCI6Ii8xMjI1MjU2MDcvNTcyMTExODk5LTkzYzJlY2RiLWJmMzMtNDllOC1iNTA1LTU3MWEzMDQzNzBiOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMzMVQxOTI5NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZThkMDMyMWZjZDA4NzEwOWM5MGFkN2M2ODBkMWFhMmQzNDJjN2RlZGMxMWJkMzQyOTU1N2RmZGM2NzhiMmE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.j3Qet7se9GX4yfvUZTj9DnD6DuRSBvLpnCCuJVi4fnk" alt="Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF3b3c5azNhdTB1cmhwNjRtaW10M2F6bDk2eGl2amFqeW41cHptdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZr9voq1NTiEew9txE/giphy.gif" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">¡Hola! Soy Edu 👋 (aka LagartoDeOro)</h1>
