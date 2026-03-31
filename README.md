@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://preview.redd.it/how-can-i-get-this-v0-y7ue6uz6ngje1.jpeg?width=3456&format=pjpg&auto=webp&s=cddc11b20b7bec5bb9702b0c43089b6378fe3680" alt="Eduardo" width="100%" />
+  <img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" alt="Banner" width="50%" />
 </div>
 
 <h1 align="center">¡Hola! Soy Edu 👋 (aka LagartoDeOro)</h1>
@@ -20,7 +20,8 @@
 
 <br>
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Herramientas <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Linux" align="right" width="20%"  />
+
 
 <p align="left">
   <!-- Badges generados con Shields.io -->
