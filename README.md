@@ -20,7 +20,7 @@
 
 <br>
 
-### 🛠️ Tech Stack & Herramientas <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Linux" align="right" width="20%"  />
+### 🛠️ Tech Stack & Herramientas   
 
 
 <p align="left">
@@ -44,7 +44,7 @@
 
 <br>
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux" align="right" width="20%"/>
 
 - 🔑 **[KeyMaster_ServerSide](https://github.com/EduardoJL02/KeyMaster_ServerSide):** Lado servidor del proyecto KeyMaster, desarrollado en JavaFX.
 - 🏦 **[CRUDBankProject](https://github.com/EduardoJL02/CRUDBankProject):** Sistema de gestión con arquitectura CRUD, desarrollado en JavaFX.
