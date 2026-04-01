@@ -2,7 +2,8 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF3b3c5azNhdTB1cmhwNjRtaW10M2F6bDk2eGl2amFqeW41cHptdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZr9voq1NTiEew9txE/giphy.gif" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">¡Hola! Soy Edu 👋 (aka LagartoDeOro)</h1>
+
+<h1 align="center"><img src="https://www.habbo.es/habbo-imaging/avatarimage?user=eduardo60093&action=wav&gesture=sml&direction=3&head_direction=3&size=b&img_format=gif" alt="avatar" align="left" width="10%"/> ¡Hola! Soy Edu 👋 (aka LagartoDeOro)</h1>
 <h3 align="center">Estudiante de DAM & Junior Full-Stack Developer</h3>
 
 <p align="center">
@@ -44,7 +45,7 @@
 
 <br>
 
-### 🚀 Proyectos Destacados <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux" align="right" width="20%"/>
+### 🚀 Proyectos Destacados <img src="https://www.habbo.es/habbo-imaging/avatarimage?user=eduardo60093&action=sit&gesture=sml&direction=3&head_direction=4&size=b&img_format=gif" alt="Tux" align="right" width="15%"/>
 
 - 🔑 **[KeyMaster_ServerSide](https://github.com/EduardoJL02/KeyMaster_ServerSide):** Lado servidor del proyecto KeyMaster, desarrollado en JavaFX.
 - 🏦 **[CRUDBankProject](https://github.com/EduardoJL02/CRUDBankProject):** Sistema de gestión con arquitectura CRUD, desarrollado en JavaFX.
