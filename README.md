@@ -56,8 +56,8 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoJL02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJL02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+  
+  [![EduardoJL02's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardoJL02&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <br>
