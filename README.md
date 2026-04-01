@@ -3,11 +3,11 @@
 </div>
 
 
-<h1 align="center"><img src="https://www.habbo.es/habbo-imaging/avatarimage?user=eduardo60093&action=wav&gesture=sml&direction=3&head_direction=3&size=b&img_format=gif" alt="avatar" align="left" width="10%"/> ¡Hola! Soy Edu 👋 (aka LagartoDeOro)</h1>
-<h3 align="center">Estudiante de DAM & Junior Full-Stack Developer</h3>
+<h1 align="center"><img src="https://www.habbo.es/habbo-imaging/avatarimage?user=eduardo60093&action=wav&gesture=sml&direction=3&head_direction=3&size=b&img_format=gif" alt="avatar" align="left" width="10%"/>¡Hola! Soy Edu 👋 (aka LagartoDeOro)ㅤㅤㅤ</h1>
+<h3 align="center">Estudiante de DAM & Junior Full-Stack Developerㅤㅤㅤㅤㅤㅤ</h3>
 
 <p align="center">
-  <i>"Una mente audaz que ignora el preámbulo para capturar la esencia."</i>
+  <i>"Una mente audaz que ignora el preámbulo para capturar la esencia."ㅤㅤㅤㅤㅤㅤㅤㅤ</i>
 </p>
 
 <br>
