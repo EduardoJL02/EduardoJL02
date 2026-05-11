@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&logoSize=auto&color=black" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white&logoSize=auto&color=%23714B67" alt="Odoo">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-714B67?style=for-the-badge&logo=odoo&logoColor=white&logoSize=auto&color=%23714B67" alt="Odoo">
 
 </p>
 
