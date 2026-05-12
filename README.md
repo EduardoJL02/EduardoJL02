@@ -47,7 +47,7 @@
 
 ### 🚀 Proyectos Destacados <img src="https://www.habbo.es/habbo-imaging/avatarimage?user=eduardo60093&action=sit&gesture=sml&direction=3&head_direction=4&size=b&img_format=gif" alt="Tux" align="right" width="15%"/>
 
-- 🔑 **[KeyMaster_ServerSide](https://github.com/EduardoJL02/KeyMaster_ServerSide):** Lado servidor del proyecto KeyMaster, desarrollado en JavaFX.
+- 🔑 **[KeyMaster_ClientSide](https://github.com/EduardoJL02/KeyMaster_ClientSide):** Lado cliente del proyecto KeyMaster, desarrollado en JavaFX.
 - 🏦 **[CRUDBankProject](https://github.com/EduardoJL02/CRUDBankProject):** Sistema de gestión con arquitectura CRUD, desarrollado en JavaFX.
 - 🏢 **[ERP-Ciete Project](https://github.com/erpCiete/ERP_Ciete):** Proyecto Ciete interns:** Colaboración a nivel de organización.
 
