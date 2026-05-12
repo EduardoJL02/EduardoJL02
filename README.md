@@ -6,12 +6,7 @@
 <h1 align="center"><img src="https://www.habbo.es/habbo-imaging/avatarimage?user=eduardo60093&action=wav&gesture=sml&direction=3&head_direction=3&size=b&img_format=gif" alt="avatar" align="left" width="10%"/>¡Hola! Soy Edu 👋 (aka LagartoDeOro)ㅤㅤㅤ</h1>
 <h3 align="center">Estudiante de DAM & Junior Full-Stack Developerㅤㅤㅤㅤㅤㅤ</h3>
 
-<div align="center">
-  
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Arquitect&quoteType=random&bgColor=0d1117&fontColor=silver)
-</div>
-
-<h1></h1>
+<br>
 <br>
 
 ### 👨‍💻 Sobre mí
@@ -63,6 +58,10 @@
 </div>
 
 <br>
+<div align="center">
+  
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Arquitect&quoteType=random&bgColor=0d1117&fontColor=silver)
+</div>
 
 ### 📫 Contacto
 
