@@ -12,8 +12,8 @@
 ### 👨‍💻 Sobre mí
 
 - 📍 **Ubicación:** Pozuelo de Alarcón, Madrid.
-- 🎓 **Actualidad:** Estudiante de último curso de Desarrollo de Aplicaciones Multiplataforma (DAM) en proceso de prácticas.
-- 🎯 **Perfil profesional:** Perfeccionista, cercano y resiliente.
+- 🎓 **Actualidad:** Técnico superior en Desarrollo de Aplicaciones Multiplataforma
+- 🎯 **Perfil profesional:** Exigente, cercano y resiliente.
 - 🤝 **Buscando:** Abierto a colaboraciones en proyectos **Open Source**.
 
 <br>
