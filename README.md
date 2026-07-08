@@ -51,11 +51,21 @@
 <br>
 
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
-<div>
+<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=EduardoJL02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de EduardoJL02" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoJL02&theme=tokyonight" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoJL02&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardoJL02&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoJL02&theme=tokyonight" width="32%" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
 </div>
 <br>
@@ -68,9 +78,9 @@
 
 <p align="left">
   <a href="mailto:ejimenez.linares02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ejimenez.linares02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.com/users/teddy_rose">
-    <img src="https://img.shields.io/badge/Discord-teddy__rose-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" />
   </a>
 </p>
