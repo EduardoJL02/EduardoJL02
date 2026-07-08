@@ -50,13 +50,14 @@
 
 <br>
 
+
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  
-  [![EduardoJL02's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardoJL02&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+<div>
 
+<img src="https://github-readme-stats.shion.dev/api?username=EduardoJL02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de EduardoJL02" />
+
+</div>
 <br>
 <div align="center">
   
