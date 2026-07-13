@@ -55,16 +55,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoJL02&theme=tokyonight" width="98%" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoJL02&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardoJL02&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoJL02&theme=tokyonight" width="32%" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="32%" />
 
 <br/><br/>
-
 </div>
 <br>
 <div align="center">
